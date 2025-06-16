@@ -1,4 +1,6 @@
 # H3YunSDK - 氚云OpenAPI .NET Core SDK
+[![NuGet Downloads](https://img.shields.io/nuget/dt/H3YunSDK.ddmdj.com)](https://www.nuget.org/packages/H3YunSDK.ddmdj.com/)
+[![NuGet Version](https://img.shields.io/nuget/v/H3YunSDK.ddmdj.com)](https://www.nuget.org/packages/H3YunSDK.ddmdj.com/)
 
 ## 简介
 
